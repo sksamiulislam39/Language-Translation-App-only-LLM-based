@@ -1,0 +1,9 @@
+transformers>=4.57.1
+sentencepiece>=0.2.1
+torch>=2.0.0
+tkinter
+numpy>=1.17
+huggingface-hub>=0.34.0
+regex!=2019.12.17
+safetensors>=0.4.3
+tqdm>=4.27
